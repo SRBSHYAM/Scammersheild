@@ -1,0 +1,15 @@
+{
+  "name": "ScammerShield AI Defense",
+  "short_name": "ScammerShield",
+  "description": "Explainable AI-assisted scam detection and phishing radar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#06111d",
+  "theme_color": "#07131f",
+  "icons": [
+    { "src": "/shield-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/shield-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
